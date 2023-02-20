@@ -1,4 +1,4 @@
-## Oi! Me chamo Mike, sou estudante de Engenharia de Software e apaixonado por tecnologia!
+## Oi! Me chamo Mike, sou estudante de Engenharia de Software e fascinado por tecnologia!
 
 - 👀 I’m interested in programming and web development.
 - 🌱 I’m currently learning JavaScript, HTML5, CSS3 & Python.
