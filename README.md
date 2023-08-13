@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in programming and web development.
 - 🌱 I’m currently learning JavaScript, HTML5, CSS3 & Python.
-- 💞️ I’m looking to collaborate on building websites & softwares.
+- 💞️ I’m looking forward to collaborate on building websites & softwares.
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikecarvalhoborges&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikecarvalhoborges&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
