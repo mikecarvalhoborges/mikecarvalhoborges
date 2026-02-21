@@ -1,11 +1,10 @@
 ## Oi! Me chamo Mike, sou estudante de Engenharia de Software e fascinado por tecnologia!
 
-- 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning JavaScript, HTML5, CSS3 & Python.
-- 💞️ I want to collaborate in building websites & softwares.
+- 👀 I’m interested in data sciente.
+- 🌱 I’m currently learning SQL, Power BI, Advanced Google Sheets Techniques & Python.
+- 💞️ I want to collaborate in data science projects and database management.
 
 ![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikecarvalhoborges&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikecarvalhoborges&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
