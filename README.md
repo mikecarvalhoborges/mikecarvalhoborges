@@ -1,17 +1,8 @@
 ## Oi! Me chamo Mike, sou estudante de Engenharia de Software e fascinado por tecnologia!
 
-- 👀 I’m interested in data sciente.
-- 🌱 I’m currently learning SQL, Power BI, Advanced Google Sheets Techniques & Python.
-- 💞️ I want to collaborate in data science projects and database management.
-
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikecarvalhoborges&show_icons=true&theme=radical)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mike-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mike-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mike-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+- I’m interested in data sciente.
+- I’m currently learning SQL, Power BI, Advanced Google Sheets Techniques & Python.
+- I want to collaborate in data science projects and database management.
 
 ##
   
