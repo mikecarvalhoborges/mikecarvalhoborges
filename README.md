@@ -1,4 +1,4 @@
-## Oi! Me chamo Mike, sou formado em Engenharia de Software e fascinado por tecnologia.
+## Oi! Me chamo Mike, sou formado em Engenharia de Software e tenho interesse em análise de dados.
 
 - I’m interested in data science.
 - I’m currently learning SQL, Python, Power BI and Advanced Google Sheets Techniques.
