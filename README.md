@@ -1,6 +1,6 @@
 ## Hi. My name is Mike and I am interested in data analysis, AI and Python programming.
 
-I hold a degree in Software Engineering and am currently pursuing a postgraduate specialization in Advanced Artificial Intelligence at the Federal University of Rio Grande Do Sul (UFRGS/BR). I have experience in data analysis, operations, and decision-support, particularly within the real estate and financial sectors.
+I hold a degree in Software Engineering and am currently pursuing a postgraduate specialization in Advanced Artificial Intelligence at the Federal University of Rio Grande Do Sul (UFRGS/🇧🇷). I have experience in data analysis, operations, and decision-support, particularly within the real estate and financial sectors.
 
 Throughout my career, I have worked on data processing and organization, the creation of dashboards and reports, KPI tracking, and operational performance analysis. This experience has increasingly drawn me toward leveraging data and technology to structure problems and generate business insights.
 
