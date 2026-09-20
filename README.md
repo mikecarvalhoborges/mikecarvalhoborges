@@ -1,8 +1,4 @@
-## Oi! Me chamo Mike, sou formado em Engenharia de Software e tenho interesse em análise de dados.
-
-- I’m interested in data science.
-- I’m currently learning SQL, Python, Power BI and Advanced Google Sheets Techniques.
-- I want to collaborate in data science projects and database management.
+## Hi. My name is Mike, I have a degree in Software Engineering, I am enrolled in a postgraduated studies course in Advanced AI at the Federal University of Rio Grande do Sul and I am interested in data analysis, AI and Python programming.
 
 ##
   
